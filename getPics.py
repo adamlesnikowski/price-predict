@@ -1,4 +1,5 @@
 #Get house share photos script
+#Relies on CSV outputted from getCSVs.py
 #Optionally run interactively in iPython, Jupyter and examine the db data frame or call getData(0, howeverManyImages)
 
 import sys
